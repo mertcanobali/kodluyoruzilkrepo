@@ -17,7 +17,7 @@ Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
 ```linux
-
+https://vscode.dev/github/mertcanobali/kodluyoruzilkrepo/blob/fc90228987339db83f4aa7db2838964c505d4df6
 
 ```
 
